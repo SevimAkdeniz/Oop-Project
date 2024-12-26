@@ -1,0 +1,7 @@
+bmw,2,manuel,4,mavi,dizeil,12000,1000,1
+audi,6,otomatik,3,sari,lpg,1200,2000,2
+mersedes,1,manuel,4,siyah,benzin,2000,4000,3
+sahin,22,manuel,4,kirmizi,lpg ve benzin,350000,3000,4
+bmw,12,manuel,5,pembe,dizel,2000,3000,5
+mersedes,2,manuel,4,yesil,dizel,123,2000,6
+porche ,2,otomatik,2,pembe,benzin,0,4000,7

@@ -1,0 +1,4 @@
+harley,5,200,3,kirmizi,lpg,1200,3000,2
+kavazaki,7,150,3,siyah,benzin,800,1500,3
+honda,12,300,5,beyaz,benzin,1200,3000,7
+kavazaki,12,120,8,siyah,dizel,1200,1200,7
