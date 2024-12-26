@@ -1,4 +1,4 @@
-```markdown
+
 # Oop-Project
 
 Bu proje, Nesne Yönelimli Programlama (Object-Oriented Programming - OOP) prensiplerini uygulayarak bir araç kiralama sistemi geliştirmeyi amaçlamaktadır. Sistem, farklı araç türlerini ve kullanıcı rollerini destekleyerek araç kiralama süreçlerini kolaylaştırır.
